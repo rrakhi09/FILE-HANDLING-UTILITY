@@ -54,3 +54,5 @@ The readFromFile method reads the content from a specified file. It uses a Buffe
 -Appending to a File: appendToFile Method
 The appendToFile method is similar to the writeToFile method but with a key difference: it appends the new content to the end of the file rather than overwriting the existing content. This is accomplished by passing true as the second argument to the FileWriter constructor, which enables the append mode.
 
+output:
+![Image](https://github.com/user-attachments/assets/7397d15f-d047-4c6c-9b7e-83dd2cfcc2dd)
